@@ -2,7 +2,7 @@
 
 一个基于React和Coze API构建的单页面应用，旨在为用户提供一个与儒家、道家及混合策略AI进行哲学对话的交互式聊天界面。
 
-![应用主界面](./images/desktop-main.png)
+![应用主界面](./images/main-interface.png)
 *桌面端主界面*
 
 ## ✨ 核心特性
