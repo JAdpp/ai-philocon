@@ -5,7 +5,7 @@
 ![应用主界面](./images/main-interface.png)
 *主界面*
 
-访问链接：http://47.89.246.208/philocou/
+Demo在线体验地址：http://47.89.246.208/philocou/
 
 ## ✨ 核心特性
 
